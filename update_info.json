@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "1.1.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.1.0/app-release.apk",
-  "releaseNotes": "",
+  "latestVersionCode": 15,
+  "latestVersionName": "1.1.1",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.1.1/app-release.apk",
+  "releaseNotes": "## [1.1.1](https://github.com/Ieo1/sensorahealth/compare/v1.1.0...v1.1.1) (2026-04-30)\n\n\n### Bug Fixes\n\n* alinhamento de estilos de dialogs novos ([f3e448a](https://github.com/Ieo1/sensorahealth/commit/f3e448ab9f2d31d311de9a64f13b244b65237075))",
   "mandatory": false
 }
