@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 26,
-  "latestVersionName": "1.2.2",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.2.2/app-release.apk",
-  "releaseNotes": "## 1.2.2 (2026-05-02)\n\n\n### Bug Fixes\n\n* resolve release build failures caused by missing resources and undefined renderState() calls",
+  "latestVersionCode": 40,
+  "latestVersionName": "1.3.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.3.0/app-release.apk",
+  "releaseNotes": "## 1.3.0 (2026-05-03)\n\n\n### Features\n\n* add API diagnostics and /data graph fallback to results screen\n* make results activity API-first for saved remote sessions\n* polish results screen layout and dynamic graph zoom behavior\n* port balance statokinesigram fallback to Android results\n* redesign results screen for user-first flow and graph viewport controls\n\n\n### Bug Fixes\n\n* align results graph placeholder view type with layout\n* refine results avatar placeholder and graph zoom behavior\n* remove orphaned password screen view reference and other buttons padronization\n* standardize app dialogs and reconcile deleted remote patients\n* support camelCase capture data fields in results graph fallback",
   "mandatory": false
 }
