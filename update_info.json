@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 58,
-  "latestVersionName": "1.4.1",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.4.1/app-release.apk",
-  "releaseNotes": "## 1.4.1 (2026-06-04)\n\n\n### Bug Fixes\n\n* consumir metricas espectrais reais da API",
+  "latestVersionCode": 60,
+  "latestVersionName": "1.5.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.5.0/app-release.apk",
+  "releaseNotes": "## 1.5.0 (2026-06-04)\n\n\n### Features\n\n* tornar metricas principais recolhiveis",
   "mandatory": false
 }
