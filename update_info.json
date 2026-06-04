@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 55,
-  "latestVersionName": "1.4.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.4.0/app-release.apk",
-  "releaseNotes": "## 1.4.0 (2026-05-21)\n\n\n### Features\n\n* add pre-capture countdown and capture timer UI\n* add spectral results section and guided patient creation\n* move user card to settings and add home promo carousel\n* **results:** add metric info dialogs\n* **results:** make balance graph square and more legible\n* **sessions:** add manual pagination to global and patient history\n* **sessions:** explicita estrategia de exportacao local e remota no historico\n* **settings:** move plan flow under settings\n* **sync:** add updatedAfter checkpoint for recent capture refresh",
+  "latestVersionCode": 58,
+  "latestVersionName": "1.4.1",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.4.1/app-release.apk",
+  "releaseNotes": "## 1.4.1 (2026-06-04)\n\n\n### Bug Fixes\n\n* consumir metricas espectrais reais da API",
   "mandatory": false
 }
