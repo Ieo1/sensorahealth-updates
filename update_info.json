@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 79,
-  "latestVersionName": "1.8.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.8.0/app-release.apk",
-  "releaseNotes": "## 1.8.0 (2026-09-15)\n\n\n### Features\n\n* **protocol:** reativar TUG e introduzir SensoraGait/SensoraCST",
+  "latestVersionCode": 82,
+  "latestVersionName": "1.9.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.9.0/app-release.apk",
+  "releaseNotes": "## 1.9.0 (2026-09-15)\n\n\n### Features\n\n* **protocol:** adicionar icone de marca de SensoraGait/SensoraCST\n* **protocol:** usar logo de SensoraGait/SensoraCST no circulo de thumbnail\n\n\n### Bug Fixes\n\n* **protocol:** corrigir cor por protocolo, disponibilidade e cronometro",
   "mandatory": false
 }
