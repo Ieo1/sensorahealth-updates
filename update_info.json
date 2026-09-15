@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 76,
-  "latestVersionName": "1.7.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.7.0/app-release.apk",
-  "releaseNotes": "## 1.7.0 (2026-06-11)\n\n\n### Features\n\n* create patient from name step before edit flow\n* move create patient action to form header\n\n\n### Bug Fixes\n\n* ajustar microcopy do fluxo de novo paciente\n* reconcile created patient fields in local cache\n* simplificar edicao de nome e foto do paciente\n* update local patient cache after confirmed field edit\n* validate patient fields before API upsert",
+  "latestVersionCode": 79,
+  "latestVersionName": "1.8.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.8.0/app-release.apk",
+  "releaseNotes": "## 1.8.0 (2026-09-15)\n\n\n### Features\n\n* **protocol:** reativar TUG e introduzir SensoraGait/SensoraCST",
   "mandatory": false
 }
