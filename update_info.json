@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 84,
-  "latestVersionName": "1.10.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.10.0/app-release.apk",
-  "releaseNotes": "## 1.10.0 (2026-09-17)\n\n\n### Features\n\n* **protocol:** resultado remoto real de Gait, TUG e CST",
+  "latestVersionCode": 86,
+  "latestVersionName": "1.11.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.11.0/app-release.apk",
+  "releaseNotes": "## 1.11.0 (2026-09-17)\n\n\n### Features\n\n* **protocol:** bloquear card de protocolo por sensor ausente ou plano",
   "mandatory": false
 }
