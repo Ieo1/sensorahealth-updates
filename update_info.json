@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 86,
-  "latestVersionName": "1.11.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.11.0/app-release.apk",
-  "releaseNotes": "## 1.11.0 (2026-09-17)\n\n\n### Features\n\n* **protocol:** bloquear card de protocolo por sensor ausente ou plano",
+  "latestVersionCode": 88,
+  "latestVersionName": "1.12.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.12.0/app-release.apk",
+  "releaseNotes": "## 1.12.0 (2026-09-24)\n\n\n### Features\n\n* **results,preparation:** antecipar aviso de validacao e priorizar ultimo paciente testado",
   "mandatory": false
 }
