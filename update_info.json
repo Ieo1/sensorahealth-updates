@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 88,
-  "latestVersionName": "1.12.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.12.0/app-release.apk",
-  "releaseNotes": "## 1.12.0 (2026-09-24)\n\n\n### Features\n\n* **results,preparation:** antecipar aviso de validacao e priorizar ultimo paciente testado",
+  "latestVersionCode": 91,
+  "latestVersionName": "1.13.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.13.0/app-release.apk",
+  "releaseNotes": "## 1.13.0 (2026-09-24)\n\n\n### Features\n\n* **results:** zoom por pinca nos graficos nativos de gait/tug/cst\n\n\n### Bug Fixes\n\n* **preparation:** corrige selecao do ultimo paciente testado no carrossel",
   "mandatory": false
 }
