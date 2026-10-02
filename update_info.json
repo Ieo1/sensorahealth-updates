@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 106,
-  "latestVersionName": "1.17.0",
-  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.17.0/app-release.apk",
-  "releaseNotes": "## 1.17.0 (2026-10-02)\n\n\n### Features\n\n* **plan:** substitui tela de plano mock por dados reais da API\n* **settings:** pop-up estilizado de uso do plano e remove secao Sessao\n\n\n### Bug Fixes\n\n* **ui:** corrige moldura oval, grade de protocolo e UX de atualizacao in-app",
+  "latestVersionCode": 109,
+  "latestVersionName": "1.18.0",
+  "apkUrl": "https://github.com/Ieo1/sensorahealth-updates/releases/download/v1.18.0/sensora-health-app.apk",
+  "releaseNotes": "## 1.18.0 (2026-10-02)\n\n\n### Features\n\n* **mainboard:** unifica alertas da Home e adiciona notificacao de atualizacao\n\n\n### Bug Fixes\n\n* **ci:** renomeia o asset do APK publicado nas releases",
   "mandatory": false
 }
